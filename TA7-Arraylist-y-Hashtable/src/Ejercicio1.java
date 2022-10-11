@@ -39,7 +39,7 @@ public class Ejercicio1 {
 		Scanner sc= new Scanner(System.in);
 		boolean finalizar=false;
 		double nota=0;
-		double media=0;
+		double media=0.0;
 		int i=0;
 		
 		
